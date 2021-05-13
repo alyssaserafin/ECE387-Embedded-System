@@ -1,1 +1,1 @@
-In this final project, I will be creating an ATM. I will use a keypad to have the user enter in the amount of money that they wish to deposit or withdraw. Then, I will use a LCD to show the amount of money remaining in the user's bank account. 
+In this final project, I will be creating an ATM. I will use a keypad to have the user enter in their pin number and the type of transaction they wish to perform. I will use a LCD to act as the display screen that relays prompts about withdrawals, deposits, welcome messages, etc. It will also communicate what is typed on the keypad. 
