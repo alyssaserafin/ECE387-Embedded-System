@@ -1,2 +1,7 @@
 In this final project, I will be creating an ATM. I will use a keypad to have the user enter in their pin number and the type of transaction they wish to perform. I will use a LCD to act as the display screen that relays prompts about withdrawals, deposits, welcome messages, etc. It will also communicate what is typed on the keypad. 
 The project will be coded entirely on the Arduino IDE using an Arduino Uno Rev 3 board, a 1602A LCD, a 3*4 keypad, wires, a potentiometer, and a 220ohm resistor. 
+
+Please refer to my Wiki report for more details. 
+
+ATM2.ino is the file that has all of my code. 
+The pdf presentation gives more details about how real ATMs work.
